@@ -1,5 +1,5 @@
 # WasmChecker
-A differential testing framework for checking the semantic equivalence of a C/C++ code in a native binary (e.g., x86-64) and WebAssembly using a test-driven approach.
+A differential testing framework for checking the semantic equivalence of C/C++ code in a native binary (e.g., x86-64) and WebAssembly using a test-driven approach.
 For more information, see the paper ["Reusing Legacy Code in WebAssembly: Key Challenges of Cross-Compilation and Code Semantics Preservation"](https://arxiv.org/abs/2412.20258).
 
 ## Requirements
